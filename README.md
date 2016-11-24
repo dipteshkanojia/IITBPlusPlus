@@ -1,4 +1,7 @@
 # IITBPlusPlus
+
+IF YOU USE THIS CODE, PLEASE DO ACKNOWLEDGE. THANKS! :)
+
 Project Title: Social Network for Faculty-Student Interaction
 Name of Our Social Network: IITBPlus+ Community
 
