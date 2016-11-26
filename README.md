@@ -15,7 +15,7 @@ FILE-INDEX:
 -----------------------------------------------------------------------
 Sr No		File-Name				Purpose
 -----------------------------------------------------------------------
- 1.			index.php				For User login: If registered user (checks by calling login() from class.user.php), will take him(her) to home.php that is home page for user
+1.			index.php				For User login: If registered user (checks by calling login() from class.user.php), will take him(her) to home.php that is home page for user
 									If not registered user then, Sign-up: which will take to signup.php for entering new user details
 									The link Lost user will take to fpass.php to specify and change as user has forgotten the password
 

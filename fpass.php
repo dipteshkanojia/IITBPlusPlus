@@ -30,7 +30,7 @@ if(isset($_POST['btn-submit']))
 				   <br /><br />
 				   Click Following Link To Reset Your Password 
 				   <br /><br />
-				   <a href='http://10.130.40.101/softlabproject/resetpass.php?id=$id&code=$code'>click here to reset your password</a>
+				   <a href='http://www.cfilt.iitb.ac.in/iitbplus/resetpass.php?id=$id&code=$code'>click here to reset your password</a>
 				   <br /><br />
 				   thank you :)
 				   ";

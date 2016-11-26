@@ -48,7 +48,7 @@ if(isset($_POST['btn-signup']))
 						Welcome to IITBPlus+!<br/>
 						To complete your registration  please , just click following link<br/>
 						<br /><br />
-						<a href='http://localhost/softlabproject/verify.php?id=$id&code=$code&status=$stat'>Click HERE to Activate :)</a>
+						<a href='http://www.cfilt.iitb.ac.in/iitbplus/verify.php?id=$id&code=$code&status=$stat'>Click HERE to Activate :)</a>
 						<br /><br />
 						Thanks,";
 						
